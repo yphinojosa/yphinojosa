@@ -9,7 +9,7 @@ Desarrollador Full Stack con pasión por crear aplicaciones web innovadoras y ef
   •  [Tu Correo Electrónico](mailto:tu_yphinojosa92@riseup.net)
  
 •  ⚡️ Dato curioso: Creo que aquel que se menciona en los libros de Historia que divide una era de otra "Cristo", creo que fué cricificado pero resucitó!, el trae paz a mi corazón y también puede traerla al tullo!
-▌🚀 Proyectos Destacados
+•  🚀 Proyectos Destacados
 
 •  [Proyecto 1]: [Proyecto que combierte una Raspberry pi3 en una cámara de vigilancia, usando python, y algunas de sus librerías de Inteligencia Artificial para el reconocimiento de personas y como sensor de movimiento!"
 •  [Proyecto 2]: [Proyecto de seguridad donde se le facilita a una persona controlar su ordenador y varios sensores en casa a distancia usando télegram].
